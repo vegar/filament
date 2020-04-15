@@ -84,6 +84,10 @@
 [filamentmannen.no](filamentmannen.no)
  - FilamentMannen
 
+[inkClub](https://www.inkclub.com/)
+  - PrimaCrator
+  - Verbatim
+
 [Japan Foto](https://www.japanphoto.no/)
  - ColorFAbb
  - Polymaker
