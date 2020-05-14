@@ -112,6 +112,10 @@
 [Multisupply](https://www.multisupply.no/)
  - Velleman
 
+[Noob.no](https://noob.no)
+ - FlashForge
+ - Makerbot
+
 [Norwegian Modellers](https://modellers.no/)
  - PrimaCreator
  
