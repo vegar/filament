@@ -112,6 +112,9 @@
 [Multisupply](https://www.multisupply.no/)
  - Velleman
 
+[NetOnNet](https://www.netonnet.no/)
+ - Verbatim
+
 [Noob.no](https://noob.no)
  - FlashForge
  - Makerbot
