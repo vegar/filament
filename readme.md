@@ -106,6 +106,7 @@
  - Luxorparts
 
 [Komplett](https://www.komplett.no/)
+ - Add:North
  - Dremel
  - FLUX
 
