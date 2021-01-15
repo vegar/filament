@@ -74,7 +74,12 @@
  - Zortrax
 
 [Elefun](https://www.elefun.no/)
+ - Anet
+ - ColorFabb
+ - Polymaker
  - PrimaCreator 
+ - Radius Filaments
+ - Ultimaker
 
 [Elkjøp](https://www.elkjop.no/)
  - Panospace
