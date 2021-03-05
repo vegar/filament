@@ -148,8 +148,21 @@
  - SmartFil
  - Taulman
 
-[Tollefsen Trading](https://tollefsen-trading.no/)
- - PrimaCreator
+[RS-Online](https://no.rs-online.com/)
+ - 3D Printz
+ - 3D Systems
+ - BQ
+ - CEL
+ - Copper 3D
+ - Ignus
+ - MakerBot
+ - Polymaker
+ - RS PRO
+ - Ultimaker
 
 [Royal3dprint.no](https://www.royal3dprint.no/)
 - eSun
+ 
+[Tollefsen Trading](https://tollefsen-trading.no/)
+ - PrimaCreator
+
