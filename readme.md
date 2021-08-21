@@ -17,6 +17,10 @@
  - XYZ
  - Zortax 
 
+[3D Print Norge](https://www.3dprintnorge.net/)
+ - PrimaCreator
+ - Momorubot
+
 [3Dvest.no](http://3dvest.no/)
  - Devil Design
 
