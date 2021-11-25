@@ -25,28 +25,26 @@
  - Devil Design
 
 [CDON](https://cdon.no/)
- - 3D Systems
  - 3Dsimo
- - APrintaPRO
- - BASF
- - DaVinci
- - DevilDesign 
+ - Add:North
+ - Bresser
+ - BuildTak
+ - Creality
+ - Dremel
+ - Esun
  - Filamentum
+ - Flashforge
  - Gearlab
  - Gembird
- - Innofil3D
- - Maertz
- - MakerBot
- - Panospace
- - PrimaCreator
+ - Inf
  - Polymaker
- - Raise3D
- - Renkforce
- - Spectrum
+ - PrimaCreator
+ - Sero
+ - Slowmoose
+ - Teknikproffset
  - Ultimaker
  - Verbatim
- - XYZ
- - Zortrax
+ - Voltivo
  
 [Clas Ohlson](https://www.clasohlson.com/no/)
  - Clas Ohlson
@@ -71,13 +69,16 @@
 [E3 Printable](https://www.e3printable.no/)
  - Add:North
  - PrimaCreator
+ - Copper3D
+ - FiberThree
  - Fillamentum
  - FiloAlfa
  - FormFutura
  - Lay-Filaments
+ - PrimaCreator
+ - PrimaSelect
  - Print With Smile
  - Raise3D
- - Taulman
  - Zortrax
 
 [Elefun](https://www.elefun.no/)
