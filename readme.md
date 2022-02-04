@@ -84,6 +84,7 @@
 [Elefun](https://www.elefun.no/)
  - Anet
  - ColorFabb
+ - eSun
  - Polymaker
  - PrimaCreator 
  - Radius Filaments
@@ -169,9 +170,11 @@
 - eSun
  
 [Stratum 3D](https://stratum3d.no/)
-- Addnorth
 - 3Dxtech
+- Addnorth
+- Essentium
 - eSun
+- Prusament
 
 [Tollefsen Trading](https://tollefsen-trading.no/)
  - PrimaCreator
