@@ -67,12 +67,8 @@
  - Add:North
  
 [E3 Printable](https://www.e3printable.no/)
- - Add:North
- - PrimaCreator
- - Copper3D
- - FiberThree
+   FiberThree
  - Fillamentum
- - FiloAlfa
  - FormFutura
  - Lay-Filaments
  - PrimaCreator
@@ -118,11 +114,6 @@
 [Kjell & Co](https://www.kjell.com/no)
  - Add:North
  - Luxorparts
-
-[Komplett](https://www.komplett.no/)
- - Add:North
- - Dremel
- - FLUX
 
 [Markset AS](https://www.yourvismawebsite.com/markset-as)
  - Extrudr 
