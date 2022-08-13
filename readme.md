@@ -65,17 +65,7 @@
  
 [Dustin](https://www.dustinhome.no/)
  - Add:North
- 
-[E3 Printable](https://www.e3printable.no/)
-   FiberThree
- - Fillamentum
- - FormFutura
- - Lay-Filaments
- - PrimaCreator
- - PrimaSelect
- - Print With Smile
- - Raise3D
- - Zortrax
+
 
 [Elefun](https://www.elefun.no/)
  - Anet
