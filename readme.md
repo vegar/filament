@@ -6,11 +6,15 @@
  - 3DNet
  - 3DXTech
  - BASF
+ - Caverna
+ - DR3D
+ - Essentium
  - Fiber Force
+ - Formlabs
  - Moldlay
  - NinjaTek
- - XSTRAND
  - Polymaker
+ - PrimaCreator
  - Proto-pasta
  - Taulman
  - Ultimaker
@@ -126,13 +130,26 @@
 
 [Polyalkemi](https://polyalkemi.no/)
  - Add:North
+ - Anycubic 
+ - Basf 
+ - eSUN
  - Fiberlogy
+ - FilamentPM
+ - Filamentum
+ - Flashforge
  - Innovatefil
  - Ninjatek
+ - Phrozen  
  - Polyalkemi
- - Polyalchemy
+ - Polymaker
+ - PolySmart
  - PrimaCreator
+ - Raise3D
+ - Reflect-o-Lay
+ - Siray Tech 
  - SmartFil
+ - Spectrum
+ - Sunlu
  - Taulman
 
 [RS-Online](https://no.rs-online.com/)
