@@ -21,6 +21,9 @@
  - XYZ
  - Zortax 
 
+[3DP](https://www.3dp.no/)
+ - Treed Filament
+
 [3D Print Norge](https://www.3dprintnorge.net/)
  - PrimaCreator
  - Momorubot
@@ -163,9 +166,6 @@
  - Polymaker
  - RS PRO
  - Ultimaker
-
-[Royal3dprint.no](https://www.royal3dprint.no/)
-- eSun
  
 [Stratum 3D](https://stratum3d.no/)
 - 3Dxtech
