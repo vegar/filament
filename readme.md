@@ -56,19 +56,6 @@
 [Clas Ohlson](https://www.clasohlson.com/no/)
  - Clas Ohlson
  - Flashforge
-
-[Creative3d](https://www.creative3d.no/) (Bergen)
- - 3DXTECH
- - eSUN
- - Fiberlogy
- - Formfutura
- - Octofiber
- - PrimaCreator
- - Proto-Pasta
- - Raise3D
- - Wanhao
- - XYZ
- - Zortrax
  
 [Dustin](https://www.dustinhome.no/)
  - Add:North
