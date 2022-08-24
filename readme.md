@@ -73,11 +73,6 @@
 [Elkjøp](https://www.elkjop.no/)
  - Panospace
 
-[filament.no](http://www.filament.no/)
- - ColorFabb
- - Filament.no
- - Ninjaflex
-
 [filamentmannen.no](filamentmannen.no)
  - FilamentMannen
 
