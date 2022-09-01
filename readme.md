@@ -109,6 +109,15 @@
 [Markset AS](https://www.yourvismawebsite.com/markset-as)
  - Extrudr 
  
+[Multicom](https://multicom.no)
+ - BASF 
+ - Creality
+ - FlashForge
+ - Gembird
+ - GearLab 
+ - Polaroid
+ - PrimaCreator 
+
 [Multisupply](https://www.multisupply.no/)
  - Velleman
 
