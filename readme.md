@@ -80,6 +80,13 @@
   - PrimaCrator
   - Verbatim
 
+[iPhonehuset](https://www.iphonehuset.no/)
+ - add:North 
+ - FlashForge
+ - GearLab
+ - Verbatim
+
+
 [Japan Foto](https://www.japanphoto.no/)
  - ColorFAbb
  - Polymaker
