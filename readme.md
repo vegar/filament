@@ -30,6 +30,12 @@
 
 [3Dvest.no](http://3dvest.no/)
  - Devil Design
+ 
+[Atea](https://www.atea.no/)
+ - BASF
+ - GearLab
+ - Verbatim
+ - MakerBot
 
 [CDON](https://cdon.no/)
  - 3Dsimo
