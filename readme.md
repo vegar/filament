@@ -1,13 +1,10 @@
-[3DLabben](https://www.3dlabben.no/filament)
- - 3D-FUEL
-
 [3DNet](https://3dnet.no/)
- - PrimaCreator
+ 
  - 3DNet
  - 3DXTech
+ - AquaSys
  - BASF
  - Caverna
- - DR3D
  - Essentium
  - Fiber Force
  - Formlabs
@@ -15,18 +12,15 @@
  - NinjaTek
  - Polymaker
  - PrimaCreator
- - Proto-pasta
+ - PrintWithSmile
+ - Protopasta
  - Taulman
  - Ultimaker
  - XYZ
- - Zortax 
 
 [3DP](https://www.3dp.no/)
+ - FormFutura
  - Treed Filament
-
-[3D Print Norge](https://www.3dprintnorge.net/)
- - PrimaCreator
- - Momorubot
 
 [3Dvest.no](http://3dvest.no/)
  - Devil Design
@@ -36,51 +30,42 @@
  - GearLab
  - Verbatim
  - MakerBot
-
-[CDON](https://cdon.no/)
- - 3Dsimo
- - Add:North
- - Bresser
- - BuildTak
- - Creality
- - Dremel
- - Esun
- - Filamentum
- - Flashforge
- - Gearlab
- - Gembird
- - Inf
- - Polymaker
- - PrimaCreator
- - Sero
- - Slowmoose
- - Teknikproffset
- - Ultimaker
- - Verbatim
- - Voltivo
  
 [Clas Ohlson](https://www.clasohlson.com/no/)
+ - Add:North
  - Clas Ohlson
  - Flashforge
+ - Fiberlogy
  
 [Dustin](https://www.dustinhome.no/)
  - Add:North
+ - Flashforge
 
 
 [Elefun](https://www.elefun.no/)
  - Anet
  - ColorFabb
  - eSun
+ - Fillamentum
+ - NinjaTek
  - Polymaker
  - PrimaCreator 
  - Radius Filaments
+ - Taluman 3D
  - Ultimaker
 
 [Elkjøp](https://www.elkjop.no/)
+ - Flashforge
+ - NinjaTek
  - Panospace
 
 [filamentmannen.no](filamentmannen.no)
  - FilamentMannen
+
+[Inf.no](https://infshop.no/)
+ - FlashForge
+ - PrimaCreator
+ - Verbatim
 
 [inkClub](https://www.inkclub.com/)
   - PrimaCrator
@@ -92,29 +77,14 @@
  - GearLab
  - Verbatim
 
-
-[Japan Foto](https://www.japanphoto.no/)
- - ColorFAbb
- - Polymaker
- - Ultimaker
- - Innofil3D
- - PrimaCreator
- - XSTRAND
- - Protopasta
- - FiberForce
-
 [Kjell & Co](https://www.kjell.com/no)
  - Add:North
- - Luxorparts
 
 [LitoTools](https://litotools.no/)
  - 3DXTECH
+ - CarbonX
  - PrimaCreator
 
-
-[Markset AS](https://www.yourvismawebsite.com/markset-as)
- - Extrudr 
- 
 [Multicom](https://multicom.no)
  - BASF 
  - Creality
@@ -123,6 +93,8 @@
  - GearLab 
  - Polaroid
  - PrimaCreator 
+ - Verbatim
+ - Zortrax
 
 [Multisupply](https://www.multisupply.no/)
  - Velleman
@@ -131,24 +103,29 @@
  - Verbatim
 
 [Noob.no](https://noob.no)
+ - Add:North
  - FlashForge
  - Makerbot
 
 [Norwegian Modellers](https://modellers.no/)
+ - colorFAabb
+ - eSUN
  - PrimaCreator
+ - Radius
  
 [Onit-Technologies](https://www.onit-technologies.no/)
+ - Grupa Azoty Tarfuse
  - Spectrum
 
 [Polyalkemi](https://polyalkemi.no/)
  - Add:North
  - Anycubic 
  - Basf 
+ - Elegoo
  - eSUN
  - Fiberlogy
  - FilamentPM
  - Filamentum
- - Flashforge
  - Innovatefil
  - Ninjatek
  - Phrozen  
@@ -158,7 +135,8 @@
  - PrimaCreator
  - Raise3D
  - Reflect-o-Lay
- - Siray Tech 
+ - Sinterit
+ - Siraya Tech 
  - SmartFil
  - Spectrum
  - Sunlu
@@ -167,22 +145,39 @@
 [RS-Online](https://no.rs-online.com/)
  - 3D Printz
  - 3D Systems
+ - BASF
+ - BCN3D
  - BQ
  - CEL
  - Copper 3D
  - Ignus
+ - Kimya
  - MakerBot
  - Polymaker
  - RS PRO
  - Ultimaker
+ - Verbatim
+ - Zortrax
  
 [Stratum 3D](https://stratum3d.no/)
 - 3Dxtech
 - Addnorth
+- Ansioprint
+- Bambulab
 - Essentium
 - eSun
+- Gyroid
+- InfiniteMAterials
+- Intamsys
+- Luvocom
+- NEXA3D
+- PrimaCreator
 - Prusament
+- TREED
 
-[Tollefsen Trading](https://tollefsen-trading.no/)
+[3DKongen](https://www.3dkongen.no/)
+ - Copymaster3D
+ - Copper3D
  - PrimaCreator
+ - Raise3D
 
