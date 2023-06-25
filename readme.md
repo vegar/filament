@@ -107,6 +107,20 @@
  - FlashForge
  - Makerbot
 
+[NorMax3D](https://nm3d.no)
+ - 3D-Fuel
+ - 3DXtech 
+ - BASF
+ - Copymaster3D
+ - Creality
+ - EasyPrint
+ - NinjaTek
+ - Polymaker
+ - PrimaCreator
+ - PrimaSelect
+ - Raise3D
+ - Taulman
+
 [Norwegian Modellers](https://modellers.no/)
  - colorFAabb
  - eSUN
