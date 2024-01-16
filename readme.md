@@ -192,6 +192,8 @@
 [3DKongen](https://www.3dkongen.no/)
  - Copymaster3D
  - Copper3D
+ - Creality
+ - Polyterra
  - PrimaCreator
  - Raise3D
 
