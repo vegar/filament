@@ -36,11 +36,30 @@
  - Clas Ohlson
  - Flashforge
  - Fiberlogy
+
+[Digital impuls](https://www.digitalimpuls.no/)
+ - Creality
+ - eSun
+ - PowerColor
+
+[DI-bedrift](https://dibedrift.no/) 
+ - eSTUFF
+ - Flashforge
+ - Gearlab
+ - Gembid
+ - HP
+ - Panospace
+ - Polaroid
+ - Prima
+ - Spectrum
+ - Vebatim
+ - Zortrax
+
  
 [Dustin](https://www.dustinhome.no/)
  - Add:North
  - Flashforge
-
+ - Gilford
 
 [Elefun](https://www.elefun.no/)
  - Anet
