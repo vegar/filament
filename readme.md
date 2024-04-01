@@ -73,6 +73,11 @@
  - Taluman 3D
  - Ultimaker
 
+[Elfa Distrelec](https://www.elfadistrelec.no)
+ - PrimaCreator
+ - RND lab
+ - RS Pro
+
 [Elkjøp](https://www.elkjop.no/)
  - Flashforge
  - NinjaTek
