@@ -37,11 +37,6 @@
  - Flashforge
  - Fiberlogy
 
-[Digital impuls](https://www.digitalimpuls.no/)
- - Creality
- - eSun
- - PowerColor
-
 [DI-bedrift](https://dibedrift.no/) 
  - eSTUFF
  - Flashforge
