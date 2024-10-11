@@ -118,6 +118,9 @@
 [Multisupply](https://www.multisupply.no/)
  - Velleman
 
+[MrSmart](https://mrsmart.no/)
+
+
 [NetOnNet](https://www.netonnet.no/)
  - Verbatim
 
