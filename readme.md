@@ -26,30 +26,18 @@
  - Devil Design
  
 [Atea](https://www.atea.no/)
- - BASF
- - GearLab
+ - HP Inc
+ - PrimaCreator
+ - German RepRap
+ - Katun
  - Verbatim
- - MakerBot
+ - eStUFF
  
 [Clas Ohlson](https://www.clasohlson.com/no/)
  - Add:North
  - Clas Ohlson
  - Flashforge
  - Fiberlogy
-
-[DI-bedrift](https://dibedrift.no/) 
- - eSTUFF
- - Flashforge
- - Gearlab
- - Gembid
- - HP
- - Panospace
- - Polaroid
- - Prima
- - Spectrum
- - Vebatim
- - Zortrax
-
  
 [Dustin](https://www.dustinhome.no/)
  - Add:North
@@ -57,7 +45,9 @@
  - Gilford
 
 [Elefun](https://www.elefun.no/)
- - Anet
+ - BASF
+ - Bambu Lab
+ - Creality
  - ColorFabb
  - eSun
  - Fillamentum
@@ -75,20 +65,20 @@
 
 [Elkjøp](https://www.elkjop.no/)
  - Flashforge
- - NinjaTek
- - Panospace
-
+ 
 [filamentmannen.no](filamentmannen.no)
  - FilamentMannen
 
 [Inf.no](https://infshop.no/)
+ - Add:North
  - FlashForge
  - PrimaCreator
  - Verbatim
 
 [inkClub](https://www.inkclub.com/)
+  - Creality
   - PrimaCrator
-  - Verbatim
+  - Polymaker
 
 [iPhonehuset](https://www.iphonehuset.no/)
  - add:North 
