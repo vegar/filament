@@ -1,3 +1,6 @@
+[3D Klubben](https://3dklubben.no/)
+- Bambu Lab
+  
 [3DNet](https://3dnet.no/)
  
  - 3DNet
